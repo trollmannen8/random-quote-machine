@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkslateblue;
+}
+
+#quote-box {
+    width: 600px;
+    min-height: 400px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.btn {
+    width: 150px;
+    margin: 20px;
+    background-color: darkslateblue;
+    color: white;
+}
+
+#text {
+    font-size: 2em;
+    padding: 10px;
+}
+
+#author {
+    font-size: 1.2em;
+}
